@@ -1,0 +1,23 @@
+[
+    {
+        "kind": "column",
+        "name": "Reserva",
+        "description": "agrega valores al rango de reserva",
+        "author": "Eudy Espinoza",
+        "params": [
+            {
+                "name": "p1",
+                "displayName": "p1",
+                "type": "number"
+            },
+            {
+                "name": "num",
+                "displayName": "num",
+                "type": "number"
+            }
+        ],
+        "result": {
+            "type": "number"
+        }
+    }
+]
